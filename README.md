@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://jacobouko.github.io/Mapping-The-Beneficiaries/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1zDIy6xTd2x6vXBOG3lC57dqphePP7f1_LnyGtlP2Lf0/edit#gid=70869349
+- Google Sheets template https://docs.google.com/spreadsheets/d/1tHckJ3cS6yjvqA8qFDsXcS6jovu0w-2RKMASyX1c-ao/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
